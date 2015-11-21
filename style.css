@@ -638,7 +638,9 @@ a[data-lightbox]:hover img{
 .tc-blue-ryb{
 	color:#0053E9!important;
 }
-/* Link colour styles */
+.tc-outer-space{
+	color:#47454B!important;
+	!important}/* Link colour styles */
 
 .ltc-black{
 	color:#000000!important;
